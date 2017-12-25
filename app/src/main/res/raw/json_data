@@ -1,0 +1,405 @@
+{ "colors":
+
+[{
+  "id": 1,
+  "color": "Goldenrod",
+  "hexValue": "#afb62b"
+}, {
+  "id": 2,
+  "color": "Blue",
+  "hexValue": "#793c51"
+}, {
+  "id": 3,
+  "color": "Goldenrod",
+  "hexValue": "#d7b968"
+}, {
+  "id": 4,
+  "color": "Crimson",
+  "hexValue": "#3d57b5"
+}, {
+  "id": 5,
+  "color": "Mauv",
+  "hexValue": "#5e751e"
+}, {
+  "id": 6,
+  "color": "Teal",
+  "hexValue": "#0966b2"
+}, {
+  "id": 7,
+  "color": "Goldenrod",
+  "hexValue": "#951275"
+}, {
+  "id": 8,
+  "color": "Crimson",
+  "hexValue": "#9600db"
+}, {
+  "id": 9,
+  "color": "Yellow",
+  "hexValue": "#dc6aec"
+}, {
+  "id": 10,
+  "color": "Khaki",
+  "hexValue": "#81351e"
+}, {
+  "id": 11,
+  "color": "Blue",
+  "hexValue": "#df73bb"
+}, {
+  "id": 12,
+  "color": "Red",
+  "hexValue": "#4fbcf8"
+}, {
+  "id": 13,
+  "color": "Red",
+  "hexValue": "#e15b5d"
+}, {
+  "id": 14,
+  "color": "Turquoise",
+  "hexValue": "#05ef18"
+}, {
+  "id": 15,
+  "color": "Blue",
+  "hexValue": "#db0a71"
+}, {
+  "id": 16,
+  "color": "Yellow",
+  "hexValue": "#409508"
+}, {
+  "id": 17,
+  "color": "Aquamarine",
+  "hexValue": "#96ccf6"
+}, {
+  "id": 18,
+  "color": "Fuscia",
+  "hexValue": "#856f31"
+}, {
+  "id": 19,
+  "color": "Indigo",
+  "hexValue": "#48d257"
+}, {
+  "id": 20,
+  "color": "Yellow",
+  "hexValue": "#1f12f3"
+}, {
+  "id": 21,
+  "color": "Yellow",
+  "hexValue": "#f859a4"
+}, {
+  "id": 22,
+  "color": "Red",
+  "hexValue": "#ac79da"
+}, {
+  "id": 23,
+  "color": "Mauv",
+  "hexValue": "#bde801"
+}, {
+  "id": 24,
+  "color": "Violet",
+  "hexValue": "#b3ae77"
+}, {
+  "id": 25,
+  "color": "Crimson",
+  "hexValue": "#c9b800"
+}, {
+  "id": 26,
+  "color": "Blue",
+  "hexValue": "#631999"
+}, {
+  "id": 27,
+  "color": "Maroon",
+  "hexValue": "#112678"
+}, {
+  "id": 28,
+  "color": "Yellow",
+  "hexValue": "#a1498f"
+}, {
+  "id": 29,
+  "color": "Fuscia",
+  "hexValue": "#19165b"
+}, {
+  "id": 30,
+  "color": "Fuscia",
+  "hexValue": "#297ba1"
+}, {
+  "id": 31,
+  "color": "Red",
+  "hexValue": "#f9c50f"
+}, {
+  "id": 32,
+  "color": "Puce",
+  "hexValue": "#06f81c"
+}, {
+  "id": 33,
+  "color": "Fuscia",
+  "hexValue": "#a39cb0"
+}, {
+  "id": 34,
+  "color": "Red",
+  "hexValue": "#8e3109"
+}, {
+  "id": 35,
+  "color": "Purple",
+  "hexValue": "#c1d3f7"
+}, {
+  "id": 36,
+  "color": "Violet",
+  "hexValue": "#ce090f"
+}, {
+  "id": 37,
+  "color": "Maroon",
+  "hexValue": "#df3a0c"
+}, {
+  "id": 38,
+  "color": "Orange",
+  "hexValue": "#c7716e"
+}, {
+  "id": 39,
+  "color": "Maroon",
+  "hexValue": "#d16b27"
+}, {
+  "id": 40,
+  "color": "Goldenrod",
+  "hexValue": "#fc2f29"
+}, {
+  "id": 41,
+  "color": "Green",
+  "hexValue": "#48da03"
+}, {
+  "id": 42,
+  "color": "Blue",
+  "hexValue": "#e4b6a6"
+}, {
+  "id": 43,
+  "color": "Green",
+  "hexValue": "#07f2e5"
+}, {
+  "id": 44,
+  "color": "Goldenrod",
+  "hexValue": "#125ae8"
+}, {
+  "id": 45,
+  "color": "Red",
+  "hexValue": "#b6ff0d"
+}, {
+  "id": 46,
+  "color": "Mauv",
+  "hexValue": "#636b89"
+}, {
+  "id": 47,
+  "color": "Pink",
+  "hexValue": "#6b02d3"
+}, {
+  "id": 48,
+  "color": "Purple",
+  "hexValue": "#220b11"
+}, {
+  "id": 49,
+  "color": "Mauv",
+  "hexValue": "#3fd0f2"
+}, {
+  "id": 50,
+  "color": "Blue",
+  "hexValue": "#4349bc"
+}, {
+  "id": 51,
+  "color": "Puce",
+  "hexValue": "#110aa7"
+}, {
+  "id": 52,
+  "color": "Crimson",
+  "hexValue": "#96f9b1"
+}, {
+  "id": 53,
+  "color": "Aquamarine",
+  "hexValue": "#73428b"
+}, {
+  "id": 54,
+  "color": "Mauv",
+  "hexValue": "#ed4ac9"
+}, {
+  "id": 55,
+  "color": "Orange",
+  "hexValue": "#37d711"
+}, {
+  "id": 56,
+  "color": "Crimson",
+  "hexValue": "#706966"
+}, {
+  "id": 57,
+  "color": "Turquoise",
+  "hexValue": "#53116d"
+}, {
+  "id": 58,
+  "color": "Orange",
+  "hexValue": "#f731bd"
+}, {
+  "id": 59,
+  "color": "Crimson",
+  "hexValue": "#6b01aa"
+}, {
+  "id": 60,
+  "color": "Maroon",
+  "hexValue": "#50c0cb"
+}, {
+  "id": 61,
+  "color": "Green",
+  "hexValue": "#1bce2a"
+}, {
+  "id": 62,
+  "color": "Indigo",
+  "hexValue": "#0832f6"
+}, {
+  "id": 63,
+  "color": "Red",
+  "hexValue": "#6cc035"
+}, {
+  "id": 64,
+  "color": "Khaki",
+  "hexValue": "#e0a1ea"
+}, {
+  "id": 65,
+  "color": "Turquoise",
+  "hexValue": "#5cbdac"
+}, {
+  "id": 66,
+  "color": "Green",
+  "hexValue": "#2a138f"
+}, {
+  "id": 67,
+  "color": "Green",
+  "hexValue": "#645323"
+}, {
+  "id": 68,
+  "color": "Red",
+  "hexValue": "#fdffb7"
+}, {
+  "id": 69,
+  "color": "Aquamarine",
+  "hexValue": "#5a5dd3"
+}, {
+  "id": 70,
+  "color": "Puce",
+  "hexValue": "#95754d"
+}, {
+  "id": 71,
+  "color": "Indigo",
+  "hexValue": "#d3100f"
+}, {
+  "id": 72,
+  "color": "Yellow",
+  "hexValue": "#862d1b"
+}, {
+  "id": 73,
+  "color": "Mauv",
+  "hexValue": "#e7783f"
+}, {
+  "id": 74,
+  "color": "Maroon",
+  "hexValue": "#b960ab"
+}, {
+  "id": 75,
+  "color": "Fuscia",
+  "hexValue": "#87b82f"
+}, {
+  "id": 76,
+  "color": "Yellow",
+  "hexValue": "#d29064"
+}, {
+  "id": 77,
+  "color": "Turquoise",
+  "hexValue": "#2c2cc9"
+}, {
+  "id": 78,
+  "color": "Purple",
+  "hexValue": "#cbae04"
+}, {
+  "id": 79,
+  "color": "Yellow",
+  "hexValue": "#3763ef"
+}, {
+  "id": 80,
+  "color": "Green",
+  "hexValue": "#942b33"
+}, {
+  "id": 81,
+  "color": "Teal",
+  "hexValue": "#ecf77d"
+}, {
+  "id": 82,
+  "color": "Teal",
+  "hexValue": "#679b3d"
+}, {
+  "id": 83,
+  "color": "Indigo",
+  "hexValue": "#849250"
+}, {
+  "id": 84,
+  "color": "Blue",
+  "hexValue": "#cda273"
+}, {
+  "id": 85,
+  "color": "Aquamarine",
+  "hexValue": "#b4d4a5"
+}, {
+  "id": 86,
+  "color": "Red",
+  "hexValue": "#8c3456"
+}, {
+  "id": 87,
+  "color": "Puce",
+  "hexValue": "#fc80e4"
+}, {
+  "id": 88,
+  "color": "Turquoise",
+  "hexValue": "#1ebb4e"
+}, {
+  "id": 89,
+  "color": "Yellow",
+  "hexValue": "#30375c"
+}, {
+  "id": 90,
+  "color": "Goldenrod",
+  "hexValue": "#ac8434"
+}, {
+  "id": 91,
+  "color": "Fuscia",
+  "hexValue": "#c17753"
+}, {
+  "id": 92,
+  "color": "Crimson",
+  "hexValue": "#b0c09d"
+}, {
+  "id": 93,
+  "color": "Aquamarine",
+  "hexValue": "#ec4dd1"
+}, {
+  "id": 94,
+  "color": "Purple",
+  "hexValue": "#c744d0"
+}, {
+  "id": 95,
+  "color": "Indigo",
+  "hexValue": "#5e9119"
+}, {
+  "id": 96,
+  "color": "Orange",
+  "hexValue": "#c1696c"
+}, {
+  "id": 97,
+  "color": "Khaki",
+  "hexValue": "#6c7321"
+}, {
+  "id": 98,
+  "color": "Blue",
+  "hexValue": "#9e1761"
+}, {
+  "id": 99,
+  "color": "Aquamarine",
+  "hexValue": "#4b6625"
+}, {
+  "id": 100,
+  "color": "Puce",
+  "hexValue": "#eb2978"
+}]
+
+}
